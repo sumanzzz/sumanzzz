@@ -1,4 +1,4 @@
-# About Me:
+
 Hi, I'm Reegan Suman
 
  Currently diving deep into Graphics & Game Development

@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hi, I'm Reegan Suman</h1>
 <p align="center">
-  <em>Graphics & Game Developer passionate about interactive experiences and rendering technologies.</em>
+  <em>I love problem solving and learning new tech by building cool stuff.</em>
 </p>
 
 ---

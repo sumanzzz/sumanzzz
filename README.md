@@ -1,10 +1,11 @@
-<p align="center">
-  <img 
+<p align="center" style="margin-bottom:12px;">
+  <img
     src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/main/13510815_3840_2160_30fps.gif"
-    style="width:100%; max-height:320px; object-fit:cover;"
-    alt="banner"
+    style="display:block; width:100%;"
   />
 </p>
+
+
 
 
 <h1 align="center">👋 Hi, I'm Reegan Suman</h1>

@@ -1,6 +1,11 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/main/13510815_3840_2160_30fps.gif" width="80%" />
+  <img 
+    src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/main/13510815_3840_2160_30fps.gif"
+    style="width:100%; max-height:320px; object-fit:cover;"
+    alt="banner"
+  />
 </p>
+
 
 <h1 align="center">👋 Hi, I'm Reegan Suman</h1>
 <p align="center">

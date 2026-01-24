@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-link.com/banner.png" width="80%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/main/13510815_3840_2160_30fps.gif" width="80%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Reegan Suman</h1>

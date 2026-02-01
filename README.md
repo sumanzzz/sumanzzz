@@ -57,6 +57,11 @@
 
 ---
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Reegan_suman?theme=dark&font=Karma)
+
+
 <p align="center">
   <a href="https://visitcount.itsvg.in">
      <img src="https://visitcount.itsvg.in/api?id=sumanzzz&icon=0&color=0"/>

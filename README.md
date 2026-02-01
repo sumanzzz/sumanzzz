@@ -57,9 +57,6 @@
 
 ---
 
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Reegan_suman?theme=dark&font=Karma)
 
 
 <p align="center">

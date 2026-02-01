@@ -1,9 +1,4 @@
-<p align="center" style="margin-bottom:12px;">
-  <img
-    src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/main/13510815_3840_2160_30fps.gif"
-    style="display:block; width:100%;"
-  />
-</p>
+
 
 
 
@@ -40,11 +35,11 @@
 ---
 
 ### 🌍 Web Technologies
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
 ![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
 
 ---
 

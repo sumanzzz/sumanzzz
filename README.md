@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Reegan Suman</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Backend+Developer;Learning+Computer+Graphics;Building+Projects+One+Commit+at+a+Time" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Backend+Developer;Building+Projects+One+Commit+at+a+Time" />
 </p>
 
 <p align="center">
@@ -67,15 +67,10 @@
 
 ---
 
-## GitHub Statistics
+## DSA
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanzzz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanzzz&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sumanzzz&theme=tokyonight&hide_border=true"/>
+  <img src="https://leetcard.jacoblin.cool/reegan_suman?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
@@ -88,19 +83,4 @@
 
 
 
-## Contribution Snake
-
-> Enable the GitHub Action below to generate the snake animation automatically.
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
-</p>
-
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sumanzzz&icon=0&color=0"/>
-</p>
 

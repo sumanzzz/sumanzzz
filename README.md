@@ -1,66 +1,106 @@
 
+<h1 align="center">Hi, I'm Reegan Suman</h1>
 
-
-
-
-<h1 align="center">👋 Hi, I'm Reegan Suman</h1>
 <p align="center">
-  <em>I love problem solving and learning new tech by building cool stuff.</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Backend+Developer;Learning+Computer+Graphics;Building+Projects+One+Commit+at+a+Time" />
+</p>
+
+<p align="center">
+  Computer Science student passionate about building high-performance software with C++.
+  <br>
+  Currently exploring computer graphics, rendering, game engine architecture, and backend development.
 </p>
 
 ---
 
-###  Socials
+## Connect
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reegan-suman)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reegansuman@gmail.com)
-<!-- Add more socials as needed -->
 
 ---
 
-###  Programming Languages
-![C++](https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+## Current Focus
+
+- Computer Graphics
+- Rendering Pipelines
+- OpenGL
+- Game Engine Development
+- Modern C++
+- Backend Systems
 
 ---
 
-###  Graphics Technologies
-![OpenGL](https://img.shields.io/badge/OpenGL-FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-![Blender](https://img.shields.io/badge/blender-F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+## Programming Languages
+
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-###  Web Technologies
+## Web Technologies
 
-![Firebase](https://img.shields.io/badge/firebase-039BE5.svg?style=for-the-badge&logo=firebase)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-###  Developer Tools
+## Developer Tools
+
 ![CMake](https://img.shields.io/badge/CMake-008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
-### GitHub Stats
+## Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Flingo** | Full-stack file sharing platform built with Java, Spring Boot, PostgreSQL and React. |
+| **Multiplayer Walkie Talkie** | Multiplayer 3D application in C++ using Raylib and WinSock2. |
+| **C++ RAG Engine** | Retrieval-Augmented Generation system built from scratch using C++ and Ollama embeddings. |
+| **3D Snake** | Raylib-based 3D Snake featuring BFS-powered AI pathfinding. |
+
+---
+
+## GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=sumanzzz&theme=dark&hide_border=false" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanzzz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanzzz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanzzz&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sumanzzz&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
+## Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanzzz&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+
+## Contribution Snake
+
+> Enable the GitHub Action below to generate the snake animation automatically.
 
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-     <img src="https://visitcount.itsvg.in/api?id=sumanzzz&icon=0&color=0"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/sumanzzz/sumanzzz/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </p>
+
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sumanzzz&icon=0&color=0"/>
+</p>
+

@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  Computer Science student passionate about building high-performance software with C++.
-  <br>
-  Currently exploring computer graphics, rendering, game engine architecture, and backend development.
+  <em>
+    Computer Science student passionate about C++, computer graphics, and building projects from the ground up.<br>
+    Outside of coding, I enjoy music, video games, and constantly learning something new.
+  </em>
 </p>
 
 ---

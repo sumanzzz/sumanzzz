@@ -22,12 +22,10 @@
 
 ## Current Focus
 
+- Modern C++
 - Computer Graphics
 - Rendering Pipelines
 - OpenGL
-- Game Engine Development
-- Modern C++
-- Backend Systems
 
 ---
 
@@ -36,7 +34,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
+![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ---
 
 ## Web Technologies
@@ -48,6 +46,13 @@
 
 ---
 
+## Graphics Technologies
+
+![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
+![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
+![LÖVE2D](https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge)
+
+---
 ## Developer Tools
 
 ![CMake](https://img.shields.io/badge/CMake-008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)

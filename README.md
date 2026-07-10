@@ -1,92 +1,222 @@
+<div align="center">
 
-<h1 align="center">Hi, I'm Reegan Suman</h1>
+```text
+ ██████╗ ███████╗███████╗ ██████╗  █████╗ ███╗   ██╗
+ ██╔══██╗██╔════╝██╔════╝██╔════╝ ██╔══██╗████╗  ██║
+ ██████╔╝█████╗  █████╗  ██║  ███╗███████║██╔██╗ ██║
+ ██╔══██╗██╔══╝  ██╔══╝  ██║   ██║██╔══██║██║╚██╗██║
+ ██║  ██║███████╗███████╗╚██████╔╝██║  ██║██║ ╚████║
+ ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+<h3> Backend • Competitive Programming</h3>
+
+
+
+</div>
+
+---
+
+```text
+> system.fetch("developer.profile")
+
+Name        :: Reegan
+Location    :: India
+Education   :: Computer Science
+Focus       :: Graphics Programming
+Status      :: Building cool things one commit at a time.
+
+-------------------------------------------------------------
+
+Languages   :: C++ | Java | JavaScript | Python | SQL | Lua
+
+Graphics    :: Raylib | SFML
+
+Backend     :: Node.js | Express.js
+
+Database    :: PostgreSQL | MongoDB
+
+Tools       :: Git
+              Docker
+              CMake
+              VS Code
+              Visual Studio
+
+Currently   :: Grinding LeetCode
+              Building Multiplayer Games
+```
+
+---
+
+# Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=C%2B%2B+Developer;Backend+Developer;Building+Projects+One+Commit+at+a+Time" />
-</p>
 
-<p align="center">
-  <em>
-    Computer Science student passionate about C++, computer graphics, and building projects from the ground up.<br>
-    Outside of coding, I enjoy music, video games, and constantly learning something new.
-  </em>
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python,nodejs,express,postgres,mongodb,docker,git,vscode,visualstudio&perline=6"/>
 
----
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/reegan-suman)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:reegansuman@gmail.com)
-
----
-
-## Current Focus
-
-- Modern C++
-- Computer Graphics
-- Rendering Pipelines
-- OpenGL
-
----
-
-## Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Lua](https://img.shields.io/badge/Lua-2C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
----
-
-## Web Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5.svg?style=for-the-badge&logo=firebase)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## Graphics Technologies
-
-![Raylib](https://img.shields.io/badge/Raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logo=sfml&logoColor=white)
-![LÖVE2D](https://img.shields.io/badge/LÖVE2D-EA316E?style=for-the-badge)
-
----
-## Developer Tools
-
-![CMake](https://img.shields.io/badge/CMake-008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Flingo** | Full-stack file sharing platform built with Java, Spring Boot, PostgreSQL and React. |
-| **Multiplayer Walkie Talkie** | Multiplayer 3D application in C++ using Raylib and WinSock2. |
-| **C++ RAG Engine** | Retrieval-Augmented Generation system built from scratch using C++ and Ollama embeddings. |
-| **3D Snake** | Raylib-based 3D Snake featuring BFS-powered AI pathfinding. |
-
----
-
-## DSA
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/reegan_suman?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
 
-## Activity Graph
+# Featured Projects
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumanzzz&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+## 🎮 Walkie Talkie
+
+> Multiplayer game engine built from scratch in C++ using Winsock networking.
+
+**Highlights**
+
+- Client-Server Architecture
+- Real-time Multiplayer
+- Raylib Rendering
+- Packet Synchronization
+- CMake Build System
 
 ---
 
+## ⚖️ LexiLearn
 
+Gamified law learning platform.
 
+- React
+- Node.js
+- PostgreSQL
+- Express
 
+---
+
+## 📄 ResumeBot
+
+Local RAG application written in C++.
+
+- Document Chunking
+- Embeddings
+- Ollama
+- Retrieval-Augmented Generation
+
+---
+
+## 🐍 Snake 3D
+
+Classic Snake recreated in full 3D.
+
+- Raylib
+- Camera Controls
+- AI Snake
+- Collision System
+
+---
+
+## 🎯 SaveTheBall
+
+Arcade game built with Lua & LOVE2D.
+
+---
+
+# GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanzzz&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanzzz&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sumanzzz&theme=dark&hide_border=true"/>
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumanzzz&theme=github-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# LeetCode
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/reegan_suman?theme=dark&font=JetBrains+Mono"/>
+
+</p>
+
+---
+
+# Currently Learning
+
+```cpp
+class Learning
+{
+public:
+
+    std::vector<std::string> roadmap =
+    {
+        "Modern C++",
+        "Data Structures & Algorithms",
+        "Operating Systems",
+        "Computer Networks",
+        "OpenGL",
+        "Vulkan",
+        "Game Engine Architecture",
+        "Distributed Systems"
+    };
+};
+```
+
+---
+
+# Current Goal
+
+```cpp
+while(alive)
+{
+    Learn();
+
+    Build();
+
+    BreakThings();
+
+    FixThem();
+
+    Repeat();
+}
+```
+
+---
+
+# Connect
+
+<p align="center">
+
+<a href="https://github.com/sumanzzz">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/reegan_suman">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+```text
+No frameworks were harmed during the making of this README.
+```
+
+</div>

@@ -1,12 +1,14 @@
 <div align="center">
 
 ```text
- ██████╗ ███████╗███████╗ ██████╗  █████╗ ███╗   ██╗
- ██╔══██╗██╔════╝██╔════╝██╔════╝ ██╔══██╗████╗  ██║
- ██████╔╝█████╗  █████╗  ██║  ███╗███████║██╔██╗ ██║
- ██╔══██╗██╔══╝  ██╔══╝  ██║   ██║██╔══██║██║╚██╗██║
- ██║  ██║███████╗███████╗╚██████╔╝██║  ██║██║ ╚████║
- ╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+██████╗ ███████╗███████╗ ██████╗  █████╗ ███╗   ██╗
+██╔══██╗██╔════╝██╔════╝██╔════╝ ██╔══██╗████╗  ██║
+██████╔╝█████╗  █████╗  ██║  ███╗███████║██╔██╗ ██║    
+██╔══██╗██╔══╝  ██╔══╝  ██║   ██║██╔══██║██║╚██╗██║
+██║  ██║███████╗███████╗╚██████╔╝██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝
+
+
 ```
 
 <h3> Backend • Competitive Programming</h3>
@@ -23,7 +25,7 @@
 Name        :: Reegan
 Location    :: India
 Education   :: Computer Science
-Focus       :: Graphics Programming
+Focus       :: Problem Solving
 Status      :: Building cool things one commit at a time.
 
 -------------------------------------------------------------
@@ -74,7 +76,7 @@ Currently   :: Grinding LeetCode
 
 ---
 
-## ⚖️ LexiLearn
+## LexiLearn
 
 Gamified law learning platform.
 
@@ -85,18 +87,10 @@ Gamified law learning platform.
 
 ---
 
-## 📄 ResumeBot
-
-Local RAG application written in C++.
-
-- Document Chunking
-- Embeddings
-- Ollama
-- Retrieval-Augmented Generation
 
 ---
 
-## 🐍 Snake 3D
+##  Snake 3D
 
 Classic Snake recreated in full 3D.
 
@@ -107,7 +101,7 @@ Classic Snake recreated in full 3D.
 
 ---
 
-## 🎯 SaveTheBall
+## SaveTheBall
 
 Arcade game built with Lua & LOVE2D.
 
@@ -168,8 +162,6 @@ public:
         "Data Structures & Algorithms",
         "Operating Systems",
         "Computer Networks",
-        "OpenGL",
-        "Vulkan",
         "Game Engine Architecture",
         "Distributed Systems"
     };

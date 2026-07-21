@@ -62,7 +62,7 @@ Currently   :: Grinding LeetCode
 
 # Featured Projects
 
-## 🎮 Walkie Talkie
+##  Walkie Talkie
 
 > Multiplayer game engine built from scratch in C++ using Winsock networking.
 
@@ -107,15 +107,7 @@ Arcade game built with Lua & LOVE2D.
 
 ---
 
-# GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumanzzz&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumanzzz&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
 
 ---
 
@@ -193,9 +185,7 @@ while(alive)
 
 <p align="center">
 
-<a href="https://github.com/sumanzzz">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+
 
 <a href="https://linkedin.com/in/reegan_suman">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>

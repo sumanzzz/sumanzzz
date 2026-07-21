@@ -54,7 +54,15 @@ Currently   :: Grinding LeetCode
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python,nodejs,express,postgres,mongodb,docker,git,vscode,visualstudio&perline=6"/>
+
+<p align="center">
+ <img src="https://skillicons.dev/icons?i=cpp,java,js,python,nodejs,express,postgres,mongodb,docker,cmake,vscode,visualstudio&perline=6"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Raylib-111111?style=for-the-badge&logo=raylib&logoColor=white" />
+  <img src="https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&logoColor=white" />
+</p>
 
 </p>
 
@@ -189,6 +197,9 @@ while(alive)
 
 <a href="https://linkedin.com/in/reegan_suman">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:your.reegansuman@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>

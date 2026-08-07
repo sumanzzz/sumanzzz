@@ -1,4 +1,4 @@
-░<div align="center">
+<div align="center">
 
 ```text
 ░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀█░░░█▀▀░█░█░█▄█░█▀█░█▀█
@@ -9,7 +9,7 @@
 <h1 align="center">Software Developer</h1>
 
 ```text
-> system.fetch("developer.profile")
+> profile :
 
 Name        :: Reegan
 Location    :: India
@@ -25,7 +25,7 @@ Tools       :: Git | Docker | CMake | VS Code | Visual Studio
 Currently   :: Grinding LeetCode
                Building Cool Projects
 
-> system.fetch("currently_learning")
+> currently_learning :
 
 Modern C++
 Data Structures & Algorithms
@@ -33,9 +33,6 @@ Operating Systems
 Computer Networks
 Distributed Systems
 
-> system.fetch("current_goal")
-
-Learn -> Build -> BreakThings -> FixThem -> Repeat
 ```
 
 <br>

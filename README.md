@@ -3,7 +3,7 @@
 ```text
 ░█▀▄░█▀▀░█▀▀░█▀▀░█▀█░█▀█░░░█▀▀░█░█░█▄█░█▀█░█▀█
 ░█▀▄░█▀▀░█▀▀░█░█░█▀█░█░█░░░▀▀█░█░█░█░█░█▀█░█░█
-░▀▄▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀
+░▀░▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀░▀░░░▀▀▀░▀▀▀░▀░▀░▀░▀░▀░▀
 ```
 </div>
 <h1 align="center">Software Developer</h1>
@@ -23,7 +23,7 @@ Backend     :: Node.js | Express.js
 Database    :: PostgreSQL | MongoDB
 Tools       :: Git | Docker | CMake | VS Code | Visual Studio
 Currently   :: Grinding LeetCode
-               Building Multiplayer Games
+               Building Cool Projects
 
 > system.fetch("currently_learning")
 
@@ -31,7 +31,6 @@ Modern C++
 Data Structures & Algorithms
 Operating Systems
 Computer Networks
-Game Engine Architecture
 Distributed Systems
 
 > system.fetch("current_goal")

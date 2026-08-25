@@ -4,7 +4,6 @@
  █▀▄ █▀▀ █▀▀ █▀▀ █▀█ █▀█   █▀▀ █ █ █▄█ █▀█ █▀█
  █▀▄ █▀▀ █▀▀ █ █ █▀█ █ █   ▀▀█ █ █ █ █ █▀█ █ █
  ▀ ▀ ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀ ▀ ▀   ▀▀▀ ▀▀▀ ▀ ▀ ▀ ▀ ▀ ▀
-I love big Tits
 ```
 </div>
 <h1 align="center">Software Developer</h1>
@@ -18,20 +17,18 @@ Education   :: Computer Science
 Focus       :: Problem Solving
 Status      :: Building cool things one commit at a time.
 -------------------------------------------------------------
-Languages   :: C++ | Java | JavaScript | Python | SQL | Lua
-Graphics    :: Raylib | SFML
-Backend     :: Node.js | Express.js
-Database    :: PostgreSQL | MongoDB
-Tools       :: Git | Docker | CMake | VS Code | Visual Studio
-Currently   :: Grinding LeetCode
-               Building Cool Projects
+Languages    :: C++ | Java | Python | Lua
+Backend      :: Node.js | Express.js |  PostgreSQL
+Tools        :: Git | Docker | CMake | VS Code | Visual Studio
+DevOps       :: AWS | Kafka | Grafana
+Graphics     :: Raylib | SFML | OpenGL
 
-> currently_learning :
+> Areas of Interest :
 
 Modern C++
 Data Structures & Algorithms
-Operating Systems
 Computer Networks
+Computer Graphics
 Distributed Systems
 
 ```
